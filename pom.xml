@@ -148,11 +148,5 @@
     		</pluginManagement>
 		<finalName>onlinebanking</finalName>
 	</build>
-	<distributionManagement>
-  <snapshotRepository>
-    <id>OnlineBanking</id>
-    <url>http://34.234.73.104:8081/nexus/content/repositories/OnlineBanking</url>
-  </snapshotRepository>
-</distributionManagement>
 </project>
 <!-- just Added a comment from Mayank - another deploy failure-->
