@@ -12,7 +12,4 @@ node {
          sh "mvn clean package -DskipTests=True"
      
    }
-   stage('Results') {
-         sh "mvn clean"
-   }
 }
